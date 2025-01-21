@@ -1,5 +1,5 @@
 """ 
-Authors: Mouniama Lucas & Mezino Thomas
+Authors: 
 Created the 10/04/2024
 """
 import py5
